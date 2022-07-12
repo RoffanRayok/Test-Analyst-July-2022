@@ -1,0 +1,19 @@
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\Test Analyst July 2022.csproj.AssemblyReference.cache
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\Test Analyst July 2022.GeneratedMSBuildEditorConfig.editorconfig
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\Test Analyst July 2022.AssemblyInfoInputs.cache
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\Test Analyst July 2022.AssemblyInfo.cs
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\Test Analyst July 2022.csproj.CoreCompileInputs.cache
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\bin\Debug\net6.0\Test Analyst July 2022.exe
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\bin\Debug\net6.0\Test Analyst July 2022.deps.json
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\bin\Debug\net6.0\Test Analyst July 2022.runtimeconfig.json
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\bin\Debug\net6.0\Test Analyst July 2022.dll
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\bin\Debug\net6.0\Test Analyst July 2022.pdb
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\bin\Debug\net6.0\WebDriver.Support.dll
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\bin\Debug\net6.0\WebDriver.dll
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\Test Analyst July 2022.csproj.CopyComplete
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\Test Analyst July 2022.dll
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\refint\Test Analyst July 2022.dll
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\Test Analyst July 2022.pdb
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\Test Analyst July 2022.genruntimeconfig.cache
+E:\July 2022\Test-Analyst-July-2022\Test Analyst July 2022\Test Analyst July 2022\obj\Debug\net6.0\ref\Test Analyst July 2022.dll
