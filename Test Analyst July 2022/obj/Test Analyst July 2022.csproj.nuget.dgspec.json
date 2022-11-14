@@ -44,9 +44,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.12, )"
+            },
             "DotNetSeleniumExtras.WaitHelpers": {
               "target": "Package",
               "version": "[3.11.0, )"
+            },
+            "IKVM": {
+              "target": "Package",
+              "version": "[8.2.1, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
